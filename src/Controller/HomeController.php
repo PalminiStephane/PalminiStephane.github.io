@@ -23,4 +23,39 @@ class HomeController extends AbstractController
             'allDriver' => $allDriver
         ]);
     }
+
+
+        // TODO : route show : doit afficher le détails d'un film
+    /**
+     * affichage des détails d'un film
+     *
+     * @Route("/driver/{id}",name="app_home_show", requirements={"id"="\d+"})
+     * @return Response
+     */
+    public function show(
+        $id,
+    
+        CarRepository $carRepository,
+        DriverRepository $driverRepository
+        ): Response
+    {
+        // TODO : aller chercher le bon conducteur dans le BDD : DriverRepository->find()
+        $driver = $driverRepository->find($id);
+               
+
+        // TODO : si le conducteur n'existe pas je doit renvoyer une 404
+        // ! sinon cela va me faire une erreur coté twig
+        if ($driver === null){
+            // renvoyer une 404
+            // on lance un exception 404 (notFound)
+            // symfony va l'attraper et changer la réponse en réponse 404
+            throw $this->createNotFoundException("le conducteur n'existe pas");
+        }
+
+        return $this->render("home/show.html.twig", 
+        [
+            "driverForView" => $driver
+        ]);
+    }
+
 }
