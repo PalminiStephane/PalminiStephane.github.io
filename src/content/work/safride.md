@@ -1,35 +1,46 @@
 ---
 title: Safride
 publishDate: 2024-04-01 00:00:00
-img: /assets/stock-1.jpg
+img: /assets/safride.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Site Vitrine de Dépollution des Sols et des Eaux.
 tags:
   - Design
   - Dev
-  - Site vitrine
+  - WordPress
 ---
 
-## Level-two heading
+## Technologies utilisées : WordPress
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+> <a href="https://safride.com/">Visiter le site Safride</a> 
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+Safride est un site vitrine dédié à la dépollution des sols et des eaux, conçu pour mettre en avant les services spécialisés de l'entreprise dans ce domaine crucial. Ce projet a été développé avec WordPress, permettant une gestion de contenu facile et flexible pour le client.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+### Fonctionnalités Clés :
 
-### Level-three heading
+* Pages informatives : Le site comprend cinq pages principales qui fournissent des informations détaillées sur les services de dépollution des sols et des eaux proposés par Safride.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+* Formulaire de contact : Un formulaire de contact est inclus pour permettre aux visiteurs de poser des questions, demander des devis ou obtenir plus d'informations sur les services offerts. Cette fonctionnalité assure une communication efficace entre l'entreprise et ses clients potentiels.
 
-### Level-three heading
+* Mentions légales et Politique de Confidentialité : Le site intègre des pages dédiées aux mentions légales et à la politique de confidentialité, garantissant la transparence et la conformité aux réglementations en vigueur.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+* Design responsive : Le site est entièrement responsive, offrant une expérience utilisateur optimale sur tous les types d'appareils, qu'il s'agisse de bureaux, de tablettes ou de smartphones.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+### Structure du Site :
 
-#### Level-four heading
+1. Accueil : Présentation générale de l'entreprise et de ses services, avec des éléments visuels accrocheurs et des appels à l'action clairs.
 
-- We noted this
-- And also this other point
+2. Gestion des Sites et Sols Pollués : Description détaillée des services de gestion des sites et sols pollués, mettant en avant l'expertise de Safride dans l'analyse, le traitement et la réhabilitation de terrains contaminés.
+
+3. Gestion des Déchets : Informations sur les solutions proposées pour la gestion des déchets, incluant le tri, le recyclage et l'élimination des déchets industriels et municipaux.
+
+4. Traitement/Dépollution des Eaux : Détails des services de traitement et de dépollution des eaux, couvrant les technologies et méthodes employées pour purifier les eaux usées et contaminées.
+
+5. Ingénierie : Présentation des compétences en ingénierie de Safride, incluant la planification, la conception et la mise en œuvre de solutions environnementales sur mesure.
+
+6. Contact : Formulaire de contact simple et intuitif, coordonnées de l'entreprise et carte interactive pour localiser les bureaux de Safride. Cette page facilite la prise de contact et l'engagement des visiteurs avec l'entreprise.
+
+#### Réalisation et Expertise
+
+Le projet Safride illustre ma capacité à créer des sites web professionnels et fonctionnels en utilisant WordPress, en mettant l'accent sur une navigation intuitive, une communication efficace et une présentation claire des informations.
