@@ -101,16 +101,16 @@ declare module 'astro:content' {
   collection: "work",
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] },
-"markdown-mystery-tour.md": {
-  id: "markdown-mystery-tour.md",
-  slug: "markdown-mystery-tour",
+"nested/duvet-genius.md": {
+  id: "nested/duvet-genius.md",
+  slug: "nested/duvet-genius",
   body: string,
   collection: "work",
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] },
-"nested/duvet-genius.md": {
-  id: "nested/duvet-genius.md",
-  slug: "nested/duvet-genius",
+"safride.md": {
+  id: "safride.md",
+  slug: "safride",
   body: string,
   collection: "work",
   data: InferEntrySchema<"work">
