@@ -94,9 +94,9 @@ declare module 'astro:content' {
   collection: "work",
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] },
-"h20.md": {
-  id: "h20.md",
-  slug: "h20",
+"jobtracker.md": {
+  id: "jobtracker.md",
+  slug: "jobtracker",
   body: string,
   collection: "work",
   data: InferEntrySchema<"work">
