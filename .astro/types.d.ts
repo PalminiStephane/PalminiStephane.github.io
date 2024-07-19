@@ -87,13 +87,6 @@ declare module 'astro:content' {
 
 	const entryMap: {
 		"work": {
-"bloom-box.md": {
-  id: "bloom-box.md",
-  slug: "bloom-box",
-  body: string,
-  collection: "work",
-  data: InferEntrySchema<"work">
-} & { render(): Render[".md"] },
 "jobtracker.md": {
   id: "jobtracker.md",
   slug: "jobtracker",
@@ -104,6 +97,13 @@ declare module 'astro:content' {
 "nested/duvet-genius.md": {
   id: "nested/duvet-genius.md",
   slug: "nested/duvet-genius",
+  body: string,
+  collection: "work",
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] },
+"oflix.md": {
+  id: "oflix.md",
+  slug: "oflix",
   body: string,
   collection: "work",
   data: InferEntrySchema<"work">
