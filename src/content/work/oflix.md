@@ -14,7 +14,7 @@ tags:
 
 ## Technologies utilisées : Symfony
 
-  >  <a href="https://github.com/PalminiStephane/symfony-oflix">Voir le code de O'flix</a>
+>  <a href="https://github.com/PalminiStephane/symfony-oflix">Voir le code de O'flix</a>
 
 O'flix est un projet visant à prendre en main le framework Symfony, en créant un site web répertoriant des films et des séries. Inspiré par les plateformes comme Allociné et Netflix, ce projet met l'accent sur l'intégration et la dynamisation de templates HTML/CSS.
 
@@ -28,14 +28,12 @@ O'flix est un projet visant à prendre en main le framework Symfony, en créant 
 
 * Liste des films ou des résultats de recherche : Affiche les films et séries disponibles en fonction des critères de recherche ou de navigation de l'utilisateur.
 
-* Backoffice :
-        Un backoffice accessible uniquement aux administrateurs et managers.
-        Les administrateurs ont la possibilité de gérer toutes les fonctionnalités du site.
-        Les managers disposent de permissions limitées, restreignant certaines actions dans le backoffice.
+* Backoffice : Un backoffice accessible uniquement aux administrateurs et managers.
+Les administrateurs ont la possibilité de gérer toutes les fonctionnalités du site.
+Les managers disposent de permissions limitées, restreignant certaines actions dans le backoffice.
 
-* Critiques :
-        Les utilisateurs authentifiés peuvent ajouter des commentaires  sur les films et séries.
-        Les utilisateurs anonymes ne voient pas les champs de commentaire.
+* Critiques : Les utilisateurs authentifiés peuvent ajouter des commentaires  sur les films et séries.
+Les utilisateurs anonymes ne voient pas les champs de commentaire.
 
 ### Structure du Site :
 
@@ -47,35 +45,23 @@ O'flix est un projet visant à prendre en main le framework Symfony, en créant 
 
 4. Recherche : Fonctionnalité de recherche permettant de trouver des films et des séries en fonction de divers critères, avec affichage des résultats correspondants.
 
-### Etapes de Rhttps://oflix.com/éalisation :
+### Etapes de Réalisation :
 
-1. Installation de Symfony :
-        Utilisation de composer create-project symfony/skeleton oflix pour installer le projet Symfony Skeleton.
-        Utilisation du serveur PHP intégré ou Apache pour lancer l'application Symfony.
+1. Installation de Symfony : Utilisation de composer create-project symfony/skeleton oflix pour installer le projet Symfony Skeleton. Utilisation du serveur PHP intégré ou Apache pour lancer l'application Symfony.
 
-2. Configuration des Routes :
-        Définition des routes nécessaires pour les pages d'accueil, de détail des films/séries, des favoris, et de recherche.
-        Utilisation des annotations pour la définition des routes.
+2. Configuration des Routes : Définition des routes nécessaires pour les pages d'accueil, de détail des films/séries, des favoris, et de recherche. Utilisation des annotations pour la définition des routes.
 
-3. Intégration HTML/CSS :
-        Intégration des templates HTML/CSS fournis dans les templates Symfony.
-        Dynamisation des templates avec Twig pour afficher les données de manière dynamique.
+3. Intégration HTML/CSS : Intégration des templates HTML/CSS fournis dans les templates Symfony. Dynamisation des templates avec Twig pour afficher les données de manière dynamique.
 
-4. Dynamisation des Données :
-        Récupération et affichage des données des films et séries à partir d'un modèle de données statique.
-        Utilisation de boucles et de conditions Twig pour afficher dynamiquement les informations.
+4. Dynamisation des Données : Récupération et affichage des données des films et séries à partir d'un modèle de données statique. Utilisation de boucles et de conditions Twig pour afficher dynamiquement les informations.
 
-5. Fonctionnalité Favoris :
-        Implémentation de la gestion des favoris utilisateur en stockant les sélections en session côté serveur.
+5. Fonctionnalité Favoris : Implémentation de la gestion des favoris utilisateur en stockant les sélections en session côté serveur.
 
-6. API JSON :
-        Création d'un accès API/JSON pour renvoyer les données des films/séries vers une application front.
+6. API JSON : Création d'un accès API/JSON pour renvoyer les données des films/séries vers une application front.
 
-7. Backoffice :
-        Création d'un backoffice sécurisé pour les administrateurs et les managers, avec des permissions spécifiques.
+7. Backoffice : Création d'un backoffice sécurisé pour les administrateurs et les managers, avec des permissions spécifiques.
 
-8. Critiques :
-        Ajout de fonctionnalités permettant aux utilisateurs authentifiés de commenter les films et séries, avec des restrictions pour les utilisateurs anonymes.
+8. Critiques : Ajout de fonctionnalités permettant aux utilisateurs authentifiés de commenter les films et séries, avec des restrictions pour les utilisateurs anonymes.
 
 #### Réalisation et Expertise
 
