@@ -2,7 +2,7 @@
 title: JobTracker
 publishDate: 2023-04-23 00:00:00
 img: /assets/jobtracker.png
-img_alt: Interface utilisateur de l'application Job Tracker
+img_alt: Interface utilisateur de l'application JobTracker dans différents format.
 description: |
    Application Web de Suivi de Candidatures.
 tags:
