@@ -94,9 +94,9 @@ declare module 'astro:content' {
   collection: "work",
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] },
-"nested/duvet-genius.md": {
-  id: "nested/duvet-genius.md",
-  slug: "nested/duvet-genius",
+"nested/judojujitsucb.md": {
+  id: "nested/judojujitsucb.md",
+  slug: "nested/judojujitsucb",
   body: string,
   collection: "work",
   data: InferEntrySchema<"work">

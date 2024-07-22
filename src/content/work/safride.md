@@ -2,7 +2,7 @@
 title: Safride
 publishDate: 2024-04-01 00:00:00
 img: /assets/safride.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Interface du site Safride dans différents formats.
 description: |
   Site Vitrine de Dépollution des Sols et des Eaux.
 tags:
